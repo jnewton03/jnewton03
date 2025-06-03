@@ -67,14 +67,6 @@ I'm a hands-on DevOps Manager leading infrastructure strategy and delivery for [
 
 ---
 
-## 📌 Pinned Projects
-
-[🔧 terraform-aws-cost-tags](https://github.com/jnewton03/terraform-aws-cost-tags) – Tag AWS infra for chargebacks  
-[🧪 github-action-sbom-validate](https://github.com/jnewton03/github-action-sbom-validate) – Validate CycloneDX & SPDX artifacts  
-[🐳 liquibase-docker-consolidation](https://github.com/jnewton03/liquibase-docker-consolidation) – Docker image work for Liquibase transition
-
----
-
 ## 🔗 Connect With Me
 
 - [💼 LinkedIn](https://www.linkedin.com/in/jakenewton/)
